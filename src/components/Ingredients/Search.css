@@ -1,0 +1,29 @@
+.search{
+    width:30rem;
+    margin:2rem auto;
+    max-width:80%;
+}
+.search-input{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction:column;
+}
+
+.search-input input{
+    font: inherit;
+
+}
+
+.ingredient-List{
+    width:30rem;
+    max-width:80%;
+    margin:auto;
+
+}
+.ingredient-List  ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    
+}
